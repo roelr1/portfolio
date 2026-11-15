@@ -1,0 +1,6 @@
+title: Richard Roelofs
+description: Portfolio van zelfgebouwde tools voor M365-beheer, automatisering en AI
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Nieuwe tools: plaats een Markdown-bestand in de map tools/ en de site toont deze automatisch.
