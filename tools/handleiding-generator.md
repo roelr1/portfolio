@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handleiding-generator
+title: test_Handleiding-generator
 ---
 
 # Handleiding-generator
